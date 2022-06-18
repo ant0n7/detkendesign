@@ -1,10 +1,10 @@
 <template>
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container-fluid">
-      <a class="navbar-brand" href="./"
-        ><p id="detken-text-nav">Detken Development</p>
-        <nuxt-img id="anton_img-nav" src="/static/logo_d_white.png" alt="Logo" />
-      </a>
+      <NuxtLink class="navbar-brand" to="/">
+        <p id="detken-text-nav">Detken Development</p>
+        <nuxt-img id="nav-logo" src="/logo_d_white.png" alt="Logo" />
+      </NuxtLink>
       <button
         class="navbar-toggler"
         type="button"
@@ -23,7 +23,6 @@
             Home
           </NuxtLink>
           <NuxtLink class="nav-link" to="/projekte">Projekte</NuxtLink>
-          <NuxtLink class="nav-link" to="/projects">Webdesign</NuxtLink>
         </div>
       </div>
     </div>
