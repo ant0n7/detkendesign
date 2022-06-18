@@ -61,6 +61,7 @@ body {
 nav {
   font-size: 22px;
   font-weight: 500;
+  text-transform: lowercase;
 }
 
 .navbar-toggler {
@@ -90,7 +91,7 @@ nav {
   transition: height 0.7s ease-out;
 }
 
-.active {
+.nuxt-link-exact-active {
   text-decoration: overline;
 }
 
@@ -240,3 +241,5 @@ footer {
 .impressum{
   text-align: center;
 }
+
+
