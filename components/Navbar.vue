@@ -2,7 +2,7 @@
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container-fluid">
       <NuxtLink class="navbar-brand" to="/">
-        <p id="detken-text-nav">Detken Development</p>
+        <p id="detken-text-nav">Detken Design</p>
         <nuxt-img id="nav-logo" src="/logo_d_white.png" alt="Logo" />
       </NuxtLink>
       <button

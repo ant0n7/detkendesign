@@ -44,6 +44,7 @@ export default {
     '@/assets/css/futura.css',
     '@/assets/css/main.scss',
     '@/assets/css/navbar.scss',
+    '@/assets/css/home.scss'
   ],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
