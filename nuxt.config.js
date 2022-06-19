@@ -37,6 +37,17 @@ export default {
       { name: 'format-detection', content: 'telephone=no' },
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
+    // Bootstrap JS bundle
+    script: [
+      // {
+      //   src: 'bootstrap/dist/js/bootstrap.bundle.min.js',
+      //   body: true,
+      // },
+      {
+        src: 'https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js',
+        body: true,
+      },
+    ]
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
