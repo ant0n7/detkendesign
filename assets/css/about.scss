@@ -1,7 +1,19 @@
 @import 'variables';
 
+.team-title-row {
+  margin-bottom: 7px;
+}
+
+.team-desc-row {
+  margin-top: 7px;
+}
+
+h2.team-title {
+  margin-bottom: 0;
+}
+
 img.team-img {
-  width: 40%;
+  width: 100%;
   height: auto;
   border-radius: $border-radius;
 
@@ -11,5 +23,5 @@ img.team-img {
 }
 
 p.team-job {
-  opacity: 70%;
+  opacity: 50%;
 }
