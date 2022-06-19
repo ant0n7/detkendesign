@@ -9,16 +9,16 @@
   @media screen and (max-width: 600px) {
     height: 40vh;
   }
-}
 
-h1 {
-  text-transform: lowercase;
-  font-size: 10vw;
-  font-weight: 600;
-
-  line-height: 0.9em;
-
-  @media screen and (max-width: 761px) {
-    font-size: 20vw;
+  h1 {
+    text-transform: lowercase;
+    font-size: 10vw;
+    font-weight: 600;
+  
+    line-height: 0.9em;
+  
+    @media screen and (max-width: 761px) {
+      font-size: 20vw;
+    }
   }
 }
