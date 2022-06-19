@@ -39,10 +39,6 @@ export default {
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
     // Bootstrap JS bundle
     script: [
-      // {
-      //   src: 'bootstrap/dist/js/bootstrap.bundle.min.js',
-      //   body: true,
-      // },
       {
         src: 'https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js',
         body: true,
@@ -56,14 +52,10 @@ export default {
     '@/assets/css/futura.css',
     '@/assets/css/main.scss',
     '@/assets/css/navbar.scss',
-    '@/assets/css/home.scss'
+    '@/assets/css/home.scss',
+    '@/assets/css/footer.scss',
+    '@/assets/css/gallery.scss',
   ],
-
-  // script: [
-  //   // popper.js local import 
-  //   'https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js',
-  //   'bootstrap/dist/js/bootstrap.bundle.min.js'
-  // ],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [],
@@ -76,14 +68,11 @@ export default {
     // https://go.nuxtjs.dev/typescript
     '@nuxt/typescript-build',
     '@nuxt/image',
-    // 'bootstrap'
-    // '@popperjs/core'
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
     // https://go.nuxtjs.dev/bootstrap
-    // "popperjs/core",
     'bootstrap-vue/nuxt',
     // https://go.nuxtjs.dev/axios
     '@nuxtjs/axios',
@@ -91,9 +80,6 @@ export default {
     '@nuxtjs/pwa',
     // https://go.nuxtjs.dev/content
     '@nuxt/content',
-
-
-    // '@nuxt/image'
   ],
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios

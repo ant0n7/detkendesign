@@ -11,9 +11,8 @@
           <div class="col-md-3"></div>
           <div class="col-md-6 col-12">
             <p id="welcome-text">
-              Wir helfen Anwaltskanzleien dabei, mehr und bessere Kunden
-              innerhalb von 8 Wochen zu erreichen, das Ganze ohne Ausgaben
-              f&uuml;r Werbekosten.
+              Wir helfen Anwaltskanzleien dabei, durch eine psychologisch und suchmaschinenoptimierte Website mehr und bessere Kunden 
+              innerhalb von 8 Wochen zu erreichen, das Ganze ohne Schmerzpunkt X und mit Y.
             </p>
           </div>
         </div>

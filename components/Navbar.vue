@@ -23,6 +23,10 @@
             class="nav-link" to="/">
             Home
           </NuxtLink>
+          <NuxtLink
+            class="nav-link" to="/ueber-uns">
+            Über uns
+          </NuxtLink>
           <NuxtLink class="nav-link" to="/projekte">Projekte</NuxtLink>
         </div>
       </div>

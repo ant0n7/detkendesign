@@ -55,4 +55,21 @@ nav {
 
 #navbarNavAltMarkup .nuxt-link-exact-active {
   text-decoration: overline;
+
+  @media screen and (max-width: 992px) {
+    text-decoration: none;
+    border-right: white solid 2px;
+  }
+}
+
+.nav-link {
+  @media screen and (max-width: 992px) {
+    text-decoration: none;
+    text-align: right;
+    margin-right: 12px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    padding: 0;
+    padding-right: 5px !important;
+  }
 }

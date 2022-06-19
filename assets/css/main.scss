@@ -1,7 +1,4 @@
-$font: futura-pt, sans-serif;
-$background: rgb(8, 29, 38);
-$lightbackground: rgb(255, 255, 255);
-$border-radius: 5px;
+@import 'variables';
 
 * {
   font-family: $font;
@@ -15,14 +12,13 @@ h1 {
   text-align: center;
 }
 
-
 .centered {
   margin: auto;
   font-size: 10vh;
 }
 
 .centered-parent {
-  height: 40vh;
+  padding-bottom: 10vh;
 }
 
 .row {
@@ -30,9 +26,10 @@ h1 {
   margin-bottom: 20px;
 }
 
-body::-webkit-scrollbar {
-  display: none;
-}
+// body::-webkit-scrollbar {
+//   display: none;
+// }
+
 body {
   -ms-overflow-style: none;
   scrollbar-width: none;
@@ -57,169 +54,8 @@ body {
   margin-bottom: 50px;
 }
 
-/* ----> NAVBAR-STYLING <---- */
-// nav {
-//   font-size: 22px;
-//   font-weight: 500;
-//   text-transform: lowercase;
-// }
-
-// .navbar-toggler {
-//   border-color: rgba(255, 102, 0, 0) !important;
-// }
-
-// .navbar-toggler-icon {
-//   background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E") !important;
-// }
-
-// .navbar-toggler:focus,
-// .navbar-toggler:active,
-// .navbar-toggler-icon:focus,
-// .close:focus,
-// .close:active,
-// .close:focus {
-//   outline: none;
-//   -webkit-box-shadow: none;
-//   box-shadow: none;
-// }
-
-// #anton_img-nav {
-//   height: 80px;
-//   width: 80px;
-//   padding: 0px;
-//   -webkit-transition: height 0.7s ease-out;
-//   transition: height 0.7s ease-out;
-// }
-
-// #navbarNavAltMarkup .nuxt-link-exact-active {
-//   text-decoration: overline;
-// }
-
-/* ----> HOME-STYLING <---- */
-// #anton_detken-title {
-//   -webkit-transition: 500ms;
-//   transition: 500ms;
-//   width: 50%;
-//   margin-top: 10vh;
-//   margin-bottom: 10vh;
-//   display: block;
-//   margin-left: auto;
-//   margin-right: auto;
-// }
-
-/* ----> Photos/Gallery <----*/
-.gallery img {
-  height: 500px;
-  width: 100%;
-  object-fit: cover;
-  border-radius: $border-radius;
-
-  transition: 0.5s;
-  &:hover {
-    cursor: pointer;
-    transform: scale(1.03);
-    transition: 0.5s;
-  }
-}
-
-.project-gallery img {
-  height: auto !important;
-  &:hover {
-    transform: unset;
-  }
-}
-
-.desktop {
-  display: block;
-}
-.mobile {
-  display: none;
-}
-
-.close {
-  background-image: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23FFF'><path d='M.293.293a1 1 0 011.414 0L8 6.586 14.293.293a1 1 0 111.414 1.414L9.414 8l6.293 6.293a1 1 0 01-1.414 1.414L8 9.414l-6.293 6.293a1 1 0 01-1.414-1.414L6.586 8 .293 1.707a1 1 0 010-1.414z'/></svg>");
-  color: white;
-  position: absolute;
-  padding: 25px;
-  right: 0;
-  top: 0;
-  z-index: 1200;
-  opacity: 0.8;
-  margin: 5px;
-  &:hover {
-    opacity: 1;
-  }
-}
-
-.modal-content {
-  background-color: rgba(8, 29, 38, 0.5);
-}
-.slide,
-.carousel-inner {
-  position: fixed;
-  height: 100%;
-  width: 100%;
-  top: 5px;
-  left: 5px;
-  right: 5px;
-  bottom: 5px;
-}
-.carousel-item {
-  width: 100%;
-  height: 100%;
-  justify-content: center;
-}
-.carousel-item img {
-  transition: none;
-  object-fit: contain;
-  height: 100% !important;
-  &:hover {
-    transform: none;
-    transition: none;
-  }
-}
-
-
-
-@media (max-width: 500px) {
-  footer {
-    height: 50px;
-  }
-}
-
 /* ----> MEDIAS <---- */
-@media (max-width: 992px) {
-  #anton_detken-title {
-    width: 75%;
-  }
-  .active {
-    border-right: white solid 2px;
-  }
-  .nav-link {
-    text-decoration: none;
-    text-align: right;
-    margin-right: 12px;
-    margin-top: 8px;
-    margin-bottom: 8px;
-    padding: 0;
-    padding-right: 5px !important;
-  }
-}
 
-@media (max-width: 600px) {
-  #anton_detken-title {
-    width: 100%;
-  }
-  .gallery img {
-    height: 300px;
-  }
-  .desktop {
-    display: none;
-  }
-  .mobile {
-    display: block;
-  }
-}
 
 body{
   position: relative;
@@ -229,17 +65,3 @@ body{
 main{
   padding-bottom: 25px;
 }
-
-footer {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  height: 25px; 
-  text-align: center; 
-}
-
-.impressum{
-  text-align: center;
-}
-
-
