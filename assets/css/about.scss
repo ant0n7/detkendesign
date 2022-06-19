@@ -1,0 +1,15 @@
+@import 'variables';
+
+img.team-img {
+  width: 40%;
+  height: auto;
+  border-radius: $border-radius;
+
+  @media screen and (max-width: 600px) {
+    width: 100%;
+  }
+}
+
+p.team-job {
+  opacity: 70%;
+}

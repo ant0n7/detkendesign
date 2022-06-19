@@ -55,6 +55,7 @@ export default {
     '@/assets/css/home.scss',
     '@/assets/css/footer.scss',
     '@/assets/css/gallery.scss',
+    '@/assets/css/about.scss',
   ],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
