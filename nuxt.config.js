@@ -41,11 +41,18 @@ export default {
 
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
+    'bootstrap/dist/css/bootstrap.min.css',
     '@/assets/css/futura.css',
     '@/assets/css/main.scss',
     '@/assets/css/navbar.scss',
     '@/assets/css/home.scss'
   ],
+
+  // script: [
+  //   // popper.js local import 
+  //   'https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js',
+  //   'bootstrap/dist/js/bootstrap.bundle.min.js'
+  // ],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [],
@@ -57,12 +64,15 @@ export default {
   buildModules: [
     // https://go.nuxtjs.dev/typescript
     '@nuxt/typescript-build',
-    '@nuxt/image'
+    '@nuxt/image',
+    // 'bootstrap'
+    // '@popperjs/core'
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
     // https://go.nuxtjs.dev/bootstrap
+    // "popperjs/core",
     'bootstrap-vue/nuxt',
     // https://go.nuxtjs.dev/axios
     '@nuxtjs/axios',
@@ -70,6 +80,8 @@ export default {
     '@nuxtjs/pwa',
     // https://go.nuxtjs.dev/content
     '@nuxt/content',
+
+
     // '@nuxt/image'
   ],
 
