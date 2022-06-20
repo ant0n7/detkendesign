@@ -1,7 +1,7 @@
 <template>
     <footer>
         <span>
-            &#169; {{ year }} Detken Design | contact&#64;detkendesign.com | <NuxtLink to="/impressum">Impressum</NuxtLink>
+            &#169; {{ year }} Detken Design | contact&#64;detkendesign.com | <NuxtLink to="/impressum" no-prefetch>Impressum</NuxtLink>
         </span>
     </footer>
 </template>
