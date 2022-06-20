@@ -2,13 +2,7 @@
   <div>
     <Navbar />
 
-    <div class="container-fluid">
-      <div class="row centered-parent">
-        <div class="col-12">
-          <h1 class="centered">Projekte</h1>
-        </div>
-      </div>
-    </div>
+    <PageTitle>Projekte</PageTitle>
 
     <main>
       <div class="container gallery project-gallery">
