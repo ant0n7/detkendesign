@@ -1,6 +1,5 @@
 <template>
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <!-- <b-navbar> -->
     <div class="container-fluid">
       <NuxtLink class="navbar-brand" to="/">
         <p id="detken-text-nav">Detken Design</p>

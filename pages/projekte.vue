@@ -15,8 +15,8 @@
         <div class="row margin-50">
           <div class="col-lg-8">
             <Reference
-              project-title="VESPA Website"
-              project-alt="Screenshot of the current VESPA Website"
+              project-title="VESPA"
+              project-alt="Screenshot der aktuellen VESPA Website"
               project-image="vespa"
               project-link="https://vespa.swiss/"
             />
