@@ -1,7 +1,5 @@
 <template>
   <div>
-    <Navbar />
-
     <main>
       <div class="container-fluid" id="lettering-container">
         <Lettering />
@@ -18,8 +16,6 @@
         </div>
       </div>
     </main>
-
-    <Footer />
   </div>
 </template>
 

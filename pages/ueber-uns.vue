@@ -1,7 +1,5 @@
 <template>
   <div>
-    <Navbar />
-
     <PageTitle>&Uuml;ber uns</PageTitle>
 
     <main>
@@ -51,7 +49,5 @@
         </div>
       </div>
     </main>
-
-    <Footer />
   </div>
 </template>

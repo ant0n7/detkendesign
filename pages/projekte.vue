@@ -1,7 +1,5 @@
 <template>
   <div>
-    <Navbar />
-
     <PageTitle>Projekte</PageTitle>
 
     <main>
@@ -18,7 +16,5 @@
         </div>
       </div>
     </main>
-
-    <Footer />
   </div>
 </template>

@@ -1,13 +1,9 @@
 <template>
   <div>
-    <Navbar />
+    <PageTitle>Impressum</PageTitle>
 
     <main>
       <div class="container">
-        <div class="row centered-parent">
-          <h1 class="centered">Impressum</h1>
-        </div>
-
         <div class="row impressum">
           <div class="col-3"></div>
           <div class="col-6">
@@ -24,7 +20,5 @@
         </div>
       </div>
     </main>
-
-    <Footer />
   </div>
 </template>
