@@ -9,8 +9,10 @@
           <div class="col-md-3"></div>
           <div class="col-md-6 col-12">
             <p id="welcome-text">
-              Wir helfen Anwaltskanzleien dabei, durch eine psychologisch und suchmaschinenoptimierte Website A und B 
-              innerhalb von 4-10 Wochen zu erreichen, das Ganze ohne Schmerzpunkt X und mit Y.
+              Wir helfen Anwaltskanzleien dabei, ihre Mandantengewinnung durch
+              eine moderne Website zu verbessern. Das Ganze hilft beim
+              Vertrauensaufbau bei potentiellen Mandanten und verhindert, dass
+              potentielle Mandanten zum Konkurrenten abspringen.
             </p>
           </div>
         </div>
@@ -18,6 +20,12 @@
     </main>
   </div>
 </template>
+
+<style scoped>
+#welcome-text {
+  text-align: center;
+}
+</style>
 
 <script lang="ts">
 import Vue from 'vue'

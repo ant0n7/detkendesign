@@ -32,16 +32,22 @@
             <div class="col-md-2 col-12">
               <nuxt-img
                 class="team-img"
-                src="/team/anton_detken_portrait.jpg"
+                src="/team/detken_anton_portrait.jpg"
               />
               <p class="team-job">Gesch&auml;ftsf&uuml;hrer</p>
             </div>
             <div class="col-md-4 col-12">
               <p class="team-desc">
-                Hero Story. Lorem ipsum dolor sit amet consectetur, adipisicing
-                elit. Nemo velit natus aliquam doloremque? Aperiam, voluptates
-                fugit? Tempora, tempore quam iusto temporibus impedit fugiat.
-                Ullam dolorem tempora deleniti tenetur perspiciatis cupiditate.
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+                Corrupti iure ipsa incidunt alias. Natus, voluptatem earum et
+                blanditiis veniam rerum! Rem eius voluptas odit ducimus maiores
+                facere voluptates, harum reprehenderit? Maxime dolores
+                voluptatum asperiores quidem eveniet laborum sunt excepturi?
+                Unde nostrum placeat qui asperiores culpa veritatis corrupti
+                exercitationem, vel dolores mollitia nemo, autem distinctio non
+                atque ipsa maxime debitis nobis animi commodi blanditiis
+                delectus recusandae tempora. Consequuntur sequi voluptate
+                similique?
               </p>
             </div>
             <div class="col-md-3"></div>
