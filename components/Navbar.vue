@@ -24,7 +24,7 @@
           </NuxtLink>
           <NuxtLink
             class="nav-link" to="/ueber-uns">
-            Über uns
+            &Uuml;ber uns
           </NuxtLink>
           <NuxtLink class="nav-link" to="/projekte">Projekte</NuxtLink>
         </div>
