@@ -30,3 +30,11 @@
     </main>
   </div>
 </template>
+
+<script>
+export default {
+  head: {
+    title: 'Detken Design - Projekte',
+  },
+}
+</script>

@@ -36,7 +36,7 @@
             </div>
             <div class="col-md-4 col-12">
               <p class="team-desc">
-                Anton Detken ist Geschäftsführer von Detken Design. Er
+                Anton Detken, Geschäftsführer von Detken Design,
                 machte eine Ausbildung zum Informatiker bei Google und
                 entdeckte dabei seine Leidenschaft f&uuml;r Design.
                 Seit 2020 bildet er sich stets weiter, um
@@ -55,3 +55,23 @@
     </main>
   </div>
 </template>
+
+<script>
+export default {
+  head: {
+    title: 'Über uns - Detken Design',
+    meta: [
+      {
+        hid: 'description',
+        name: 'description',
+        content: 'Wir planen und realisieren Webdesign für Anwaltskanzleien. Dabei setzen wir durchdachte Techniken ein, die potenzielle Kunden und Mitarbeiter überzeugen. Dadurch verhindern wir unter anderem, dass Ihre Website-Besucher zu Ihren Konkurrenten abspringen.',
+      },
+      {
+        hid: 'og:description',
+        name: 'og:description',
+        content: 'Wir planen und realisieren Webdesign für Anwaltskanzleien. Dabei setzen wir durchdachte Techniken ein, die potenzielle Kunden und Mitarbeiter überzeugen. Dadurch verhindern wir unter anderem, dass Ihre Website-Besucher zu Ihren Konkurrenten abspringen.',
+      },
+    ]
+  }
+}
+</script>
