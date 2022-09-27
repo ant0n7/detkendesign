@@ -10,8 +10,8 @@
             <p>
               Wir planen und realisieren Webdesign für Anwaltskanzleien. Dabei
               setzen wir durchdachte Techniken ein, die potenzielle Kunden und
-              Mitarbeiter überzeugen. Dadurch verhindern wir unter anderem, dass Ihre
-              Website-Besucher zu Ihren Konkurrenten abspringen.
+              Mitarbeiter überzeugen. Dadurch verhindern wir unter anderem, dass
+              Ihre Website-Besucher zu Ihren Konkurrenten abspringen.
             </p>
             <i class="fa fa-quote-left" aria-hidden="true"></i>
           </div>
@@ -32,20 +32,22 @@
                 class="team-img"
                 src="/team/detken_anton_portrait.jpg"
               />
-              <p class="team-job">Gesch&auml;ftsf&uuml;hrer</p>
+              <p class="team-job" style="opacity: 50%">
+                Gesch&auml;ftsf&uuml;hrer
+              </p>
             </div>
             <div class="col-md-4 col-12">
               <p class="team-desc">
-                Anton Detken, Geschäftsführer von Detken Design,
-                machte eine Ausbildung zum Informatiker bei Google und
-                entdeckte dabei seine Leidenschaft f&uuml;r Design.
-                Seit 2020 bildet er sich stets weiter, um
-                bestmögliche Ergebnisse f&uuml;r seine Kunden zu erreichen.
-                Dabei hat er sich auf die Entwicklung von
-                Websites für Anwaltskanzleien spezialisiert.
-                <br>
-                <br>
-                <a href="mailto:anton@detkendesign.com">anton@detkendesign.com</a>
+                Anton Detken machte eine Ausbildung zum Informatiker bei Google
+                und entdeckte dabei seine Leidenschaft f&uuml;r Design. Seit
+                2020 bildet er sich stets weiter, um bestmögliche Ergebnisse
+                f&uuml;r seine Kunden zu erreichen. Dabei hat er sich auf die
+                Entwicklung von Websites für Anwaltskanzleien spezialisiert.
+                <br />
+                <br />
+                <a href="mailto:anton@detkendesign.com"
+                  >anton@detkendesign.com</a
+                >
               </p>
             </div>
             <div class="col-md-3"></div>
@@ -64,14 +66,16 @@ export default {
       {
         hid: 'description',
         name: 'description',
-        content: 'Wir planen und realisieren Webdesign für Anwaltskanzleien. Dabei setzen wir durchdachte Techniken ein, die potenzielle Kunden und Mitarbeiter überzeugen. Dadurch verhindern wir unter anderem, dass Ihre Website-Besucher zu Ihren Konkurrenten abspringen.',
+        content:
+          'Wir planen und realisieren Webdesign für Anwaltskanzleien. Dabei setzen wir durchdachte Techniken ein, die potenzielle Kunden und Mitarbeiter überzeugen. Dadurch verhindern wir unter anderem, dass Ihre Website-Besucher zu Ihren Konkurrenten abspringen.',
       },
       {
         hid: 'og:description',
         name: 'og:description',
-        content: 'Wir planen und realisieren Webdesign für Anwaltskanzleien. Dabei setzen wir durchdachte Techniken ein, die potenzielle Kunden und Mitarbeiter überzeugen. Dadurch verhindern wir unter anderem, dass Ihre Website-Besucher zu Ihren Konkurrenten abspringen.',
+        content:
+          'Wir planen und realisieren Webdesign für Anwaltskanzleien. Dabei setzen wir durchdachte Techniken ein, die potenzielle Kunden und Mitarbeiter überzeugen. Dadurch verhindern wir unter anderem, dass Ihre Website-Besucher zu Ihren Konkurrenten abspringen.',
       },
-    ]
-  }
+    ],
+  },
 }
 </script>
