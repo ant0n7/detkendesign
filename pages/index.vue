@@ -10,9 +10,10 @@
           <div class="col-md-6 col-12">
             <p id="welcome-text">
               Wir helfen Anwaltskanzleien dabei, ihre Mandantengewinnung durch
-              eine moderne Website zu verbessern. Das Ganze hilft beim
-              Vertrauensaufbau bei potentiellen Mandanten und verhindert, dass
-              potentielle Mandanten zum Konkurrenten abspringen.
+              eine moderne Webseite zu verbessern. Mit unseren durchdachten
+              Techniken verhindern wir, dass potenzielle Mandanten und
+              Mitarbeiter zum Konkurrenten abspringen und hilft beim
+              Vertrauensaufbau von Interessenten.
             </p>
           </div>
         </div>

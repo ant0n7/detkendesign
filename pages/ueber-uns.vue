@@ -8,14 +8,12 @@
           <div class="col-md-3"></div>
           <div class="col-md-6 col-12">
             <p>
-              Detken Design ist eine Webdesign Agentur aus Z&uuml;rich. Lorem
-              ipsum dolor sit amet consectetur adipisicing elit. Ad iusto quasi
-              itaque culpa illo a perferendis accusantium voluptatibus debitis,
-              molestiae exercitationem fuga atque id, voluptatum repudiandae
-              fugiat officia quo voluptas unde quidem officiis magnam nesciunt
-              eveniet ab! Quasi maiores iure, deserunt error, cum perspiciatis
-              qui sint quod culpa enim deleniti.
+              Wir planen und realisieren Webdesign für Anwaltskanzleien. Dabei
+              setzen wir durchdachte Techniken ein, die potenzielle Kunden und
+              Mitarbeiter überzeugen. Dadurch verhindern wir unter anderem, dass Ihre
+              Website-Besucher zu Ihren Konkurrenten abspringen.
             </p>
+            <i class="fa fa-quote-left" aria-hidden="true"></i>
           </div>
           <div class="col-md-3"></div>
         </div>
@@ -38,16 +36,16 @@
             </div>
             <div class="col-md-4 col-12">
               <p class="team-desc">
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                Corrupti iure ipsa incidunt alias. Natus, voluptatem earum et
-                blanditiis veniam rerum! Rem eius voluptas odit ducimus maiores
-                facere voluptates, harum reprehenderit? Maxime dolores
-                voluptatum asperiores quidem eveniet laborum sunt excepturi?
-                Unde nostrum placeat qui asperiores culpa veritatis corrupti
-                exercitationem, vel dolores mollitia nemo, autem distinctio non
-                atque ipsa maxime debitis nobis animi commodi blanditiis
-                delectus recusandae tempora. Consequuntur sequi voluptate
-                similique?
+                Anton Detken ist Geschäftsführer von Detken Design. Er
+                machte eine Ausbildung zum Informatiker bei Google und
+                entdeckte dabei seine Leidenschaft f&uuml;r Design.
+                Seit 2020 bildet er sich stets weiter, um
+                bestmögliche Ergebnisse f&uuml;r seine Kunden zu erreichen.
+                Dabei hat er sich auf die Entwicklung von
+                Websites für Anwaltskanzleien spezialisiert.
+                <br>
+                <br>
+                <a href="mailto:anton@detkendesign.com">anton@detkendesign.com</a>
               </p>
             </div>
             <div class="col-md-3"></div>
