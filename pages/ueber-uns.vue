@@ -11,7 +11,8 @@
               Wir planen und realisieren Webdesign für Anwaltskanzleien. Dabei
               setzen wir durchdachte Techniken ein, die potenzielle Kunden und
               Mitarbeiter überzeugen. Dadurch verhindern wir unter anderem, dass
-              Ihre Website-Besucher zu Ihren Konkurrenten abspringen.
+              potenzielle Mandanten und Mitarbeiter zum Konkurrenten abspringen
+              und helfen beim Vertrauensaufbau von Interessenten
             </p>
             <i class="fa fa-quote-left" aria-hidden="true"></i>
           </div>
