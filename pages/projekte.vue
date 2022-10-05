@@ -34,7 +34,7 @@
 <script>
 export default {
   head: {
-    title: 'Detken Design - Projekte',
+    title: 'Projekte - Detken Design',
   },
 }
 </script>
