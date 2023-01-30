@@ -4,14 +4,14 @@
   font-family: $font;
   color: #fff !important;
 }
-.bg-light,body {
+.bg-light,
+body {
   background-color: $background !important;
 }
 
-
 main {
   p {
-    font-size: 20px;
+    font-size: 24px;
     text-align: justify;
   }
 }
@@ -27,7 +27,7 @@ h1 {
 
 .centered-parent {
   padding-bottom: 10vh;
-  
+
   @media screen and (max-width: 761px) {
     padding-top: 4vh;
   }
@@ -63,11 +63,11 @@ body {
   margin-bottom: 50px;
 }
 
-body{
+body {
   position: relative;
   min-height: 100vh;
 }
 
-main{
+main {
   padding-bottom: 25px;
 }
