@@ -11,7 +11,7 @@
               project-title="VESPA"
               project-alt="Screenshot der aktuellen VESPA Website"
               project-image="vespa"
-              project-link="https://vespa.swiss/"
+              project-link="https://beta.vespa.swiss/"
             />
           </div>
         </div>
