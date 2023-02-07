@@ -100,58 +100,60 @@
               |                                   |
               |-----------------------------------|
               Following table should have the same format as above -->
-          <table class="table">
-            <thead>
-              <tr>
-                <th scope="row" colspan="3">
-                  <h3 class="text-center">
-                    Unsere Designsprache steigert Ihren Erfolg
-                  </h3>
-                  <p class="opacity-50 text-center h4">
-                    Einige Vorteile unserer Arbeit für Sie sind ...
-                  </p>
-                </th>
-              </tr>
-              <tr>
-                <th scope="row"><h4>Ihre Zeit</h4></th>
-                <th scope="row"><h4>&Auml;ssere Wahrnehmung</h4></th>
-                <th scope="row"><h4>Vorsprung</h4></th>
-              </tr>
-              <tr>
-                <td>
-                  <p>
-                    Wir erstellen Ihre Internetseite so, dass Sie sich auf Ihr
-                    Kerngeschäft konzentrieren können.
-                  </p>
-                </td>
-                <td>
-                  <p>
-                    Mit einer überzeugenden Website stärken Sie das Image Ihrer
-                    Kanzlei.
-                  </p>
-                  <p>
-                    Potenzielle Mandanten und Arbeitnehmer nehmen Sie so in
-                    einem noch besseren Licht wahr.
-                  </p>
-                </td>
-                <td>
-                  <p>Erhöhen Sie Ihre Verfügbarkeit ohne mehr Anwesenheit.</p>
-                  <p>
-                    Gewinnen Sie Kunden und Arbeitnehmer durch Ihre
-                    leistungsstarke Webseite rund um die Uhr.
-                  </p>
-                </td>
-              </tr>
-              <tr>
-                <td scope="col" colspan="3">
-                  <p>
-                    Kombiniert führen diese und weitere Vorteile zu einem
-                    nachhaltig größeren Erfolg Ihrer Kanzlei!
-                  </p>
-                </td>
-              </tr>
-            </thead>
-          </table>
+          <div class="table-responsive">
+            <table class="table">
+              <thead>
+                <tr>
+                  <th scope="row" colspan="3">
+                    <h3 class="text-center">
+                      Unsere Designsprache steigert Ihren Erfolg
+                    </h3>
+                    <p class="opacity-50 text-center h4">
+                      Einige Vorteile unserer Arbeit für Sie sind ...
+                    </p>
+                  </th>
+                </tr>
+                <tr>
+                  <th scope="row"><h4>Ihre Zeit</h4></th>
+                  <th scope="row"><h4>&Auml;ssere Wahrnehmung</h4></th>
+                  <th scope="row"><h4>Vorsprung</h4></th>
+                </tr>
+                <tr>
+                  <td>
+                    <p>
+                      Wir erstellen Ihre Internetseite so, dass Sie sich auf Ihr
+                      Kerngeschäft konzentrieren können.
+                    </p>
+                  </td>
+                  <td>
+                    <p>
+                      Mit einer überzeugenden Website stärken Sie das Image
+                      Ihrer Kanzlei.
+                    </p>
+                    <p>
+                      Potenzielle Mandanten und Arbeitnehmer nehmen Sie so in
+                      einem noch besseren Licht wahr.
+                    </p>
+                  </td>
+                  <td>
+                    <p>Erhöhen Sie Ihre Verfügbarkeit ohne mehr Anwesenheit.</p>
+                    <p>
+                      Gewinnen Sie Kunden und Arbeitnehmer durch Ihre
+                      leistungsstarke Webseite rund um die Uhr.
+                    </p>
+                  </td>
+                </tr>
+                <tr>
+                  <td scope="col" colspan="3">
+                    <p>
+                      Kombiniert führen diese und weitere Vorteile zu einem
+                      nachhaltig größeren Erfolg Ihrer Kanzlei!
+                    </p>
+                  </td>
+                </tr>
+              </thead>
+            </table>
+          </div>
 
           <p>Profitieren Sie jetzt von unserer Erfahrung.</p>
           <p>
