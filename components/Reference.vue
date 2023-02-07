@@ -1,13 +1,16 @@
 <template>
   <div>
-    <a
-      :to="projectLink"
-      :title="projectTitle"
-      target="_blank"
-      rel="noopener"
-    >
-      <nuxt-img class="desktop" :src="'/projects/' + projectImage + '-desktop.jpg'" :alt="projectAlt" />
-      <nuxt-img class="mobile" :src="'/projects/' + projectImage + '-mobile.jpg'" :alt="projectAlt" />
+    <a :href="projectLink" :title="projectTitle" target="_blank" rel="noopener">
+      <nuxt-img
+        class="desktop"
+        :src="'/projects/' + projectImage + '-desktop.jpg'"
+        :alt="projectAlt"
+      />
+      <nuxt-img
+        class="mobile"
+        :src="'/projects/' + projectImage + '-mobile.jpg'"
+        :alt="projectAlt"
+      />
     </a>
     <h3 class="img-desc">{{ projectTitle }}</h3>
   </div>
@@ -19,7 +22,7 @@ export default {
     projectTitle: String,
     projectAlt: String,
     projectLink: String,
-    projectImage: String
-  }
+    projectImage: String,
+  },
 }
 </script>
