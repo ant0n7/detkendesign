@@ -11,7 +11,7 @@
               Wir helfen Anwaltskanzleien dabei, ihre Mandantengewinnung durch
               eine moderne Webseite zu verbessern. Mit unseren durchdachten
               Techniken verhindern wir, dass potenzielle Mandanten und
-              Mitarbeiter zum Konkurrenten abspringen und hilft beim
+              Mitarbeiter zum Konkurrenten abspringen und helfen beim
               Vertrauensaufbau von Interessenten.
             </p>
           </div>
