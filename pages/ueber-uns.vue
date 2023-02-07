@@ -3,31 +3,24 @@
     <PageTitle>&Uuml;ber uns</PageTitle>
 
     <main>
-      <div class="container-fluid">
-        <div class="row">
-          <div class="col-md-3"></div>
-          <div class="col-md-6 col-12">
-            <p>
-              Wir planen und realisieren Webdesign für Anwaltskanzleien. Dabei
-              setzen wir durchdachte Techniken ein, die potenzielle Kunden und
-              Mitarbeiter überzeugen. Dadurch verhindern wir unter anderem, dass
-              potenzielle Mandanten und Mitarbeiter zum Konkurrenten abspringen
-              und helfen beim Vertrauensaufbau von Interessenten
-            </p>
-            <i class="fa fa-quote-left" aria-hidden="true"></i>
-          </div>
-          <div class="col-md-3"></div>
-        </div>
+      <div class="container">
+        <TextWrapper>
+          <p>
+            Wir planen und realisieren Webdesign für Anwaltskanzleien. Dabei
+            setzen wir durchdachte Techniken ein, die potenzielle Kunden und
+            Mitarbeiter überzeugen. Dadurch verhindern wir unter anderem, dass
+            potenzielle Mandanten und Mitarbeiter zum Konkurrenten abspringen
+            und helfen beim Vertrauensaufbau von Interessenten
+          </p>
+        </TextWrapper>
         <div class="team">
-          <div class="row team-title-row">
-            <div class="col-md-3"></div>
+          <div class="team-title-row">
             <div class="col-md-6 col-12">
               <h2 class="team-title">Anton Detken</h2>
             </div>
             <div class="col-md-3"></div>
           </div>
           <div class="row team-desc-row">
-            <div class="col-md-3"></div>
             <div class="col-md-2 col-12">
               <nuxt-img
                 class="team-img"
@@ -37,21 +30,29 @@
                 Gesch&auml;ftsf&uuml;hrer
               </p>
             </div>
-            <div class="col-md-4 col-12">
-              <p class="team-desc">
-                Anton Detken machte eine Ausbildung zum Informatiker bei Google
-                und entdeckte dabei seine Leidenschaft f&uuml;r Design. Seit
-                2020 bildet er sich stets weiter, um bestmögliche Ergebnisse
-                f&uuml;r seine Kunden zu erreichen. Dabei hat er sich auf die
-                Entwicklung von Websites für Anwaltskanzleien spezialisiert.
-                <br />
+            <div class="col-md-10 col-12">
+              <p>
+                <em
+                  >“Gutes Design ist unsichtbar - Es funktioniert einfach.”</em
+                >
+              </p>
+              <p>
+                Anton Detken kennt sich durch seine Erfahrung bei Google bestens
+                im Bereich der Informatik aus. Während seiner Zeit dort
+                entdeckte er seine Leidenschaft für Webdesign.
+              </p>
+              <p>
+                Seit 2020 bildet er sich in diesem Bereich stets weiter, um
+                seinen Kunden die bestmöglichen Ergebnisse zu ermöglichen. Dabei
+                hat er sich vor allem auf die Entwicklung spezialisiert.
+              </p>
+              <p>
                 <br />
                 <a href="mailto:anton@detkendesign.com"
                   >anton@detkendesign.com</a
                 >
               </p>
             </div>
-            <div class="col-md-3"></div>
           </div>
         </div>
       </div>
