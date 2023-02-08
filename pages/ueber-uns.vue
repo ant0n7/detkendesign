@@ -42,9 +42,11 @@
                 entdeckte er seine Leidenschaft für Webdesign.
               </p>
               <p>
-                Seit 2020 bildet er sich in diesem Bereich stets weiter, um
-                seinen Kunden die bestmöglichen Ergebnisse zu ermöglichen. Dabei
-                hat er sich vor allem auf die Entwicklung spezialisiert.
+                Seit mehreren Jahren bildet er sich in diesem Bereich stets
+                weiter, um seinen Kunden die bestmöglichen Ergebnisse zu
+                ermöglichen. Dabei hat er sich vor allem auf hochqualitatives
+                und konvertierendes Design und performanceorientiertes
+                Programmieren spezialisiert.
               </p>
               <p>
                 <br />
