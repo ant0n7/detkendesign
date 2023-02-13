@@ -11,7 +11,7 @@
               Wir helfen Anwaltskanzleien dabei, ihre Mandantengewinnung durch
               eine moderne Webseite zu verbessern. Mit unseren durchdachten
               Techniken verhindern wir, dass potenzielle Mandanten und
-              Mitarbeiter zum Konkurrenten abspringen und helfen beim
+              Mitarbeiter zum Konkurrenten abspringen, und helfen beim
               Vertrauensaufbau von Interessenten.
             </p>
           </div>
@@ -115,7 +115,7 @@
                 </tr>
                 <tr>
                   <th scope="row"><h4>Ihre Zeit</h4></th>
-                  <th scope="row"><h4>&Auml;ssere Wahrnehmung</h4></th>
+                  <th scope="row"><h4>&Auml;ussere Wahrnehmung</h4></th>
                   <th scope="row"><h4>Vorsprung</h4></th>
                 </tr>
                 <tr>
@@ -127,7 +127,7 @@
                   </td>
                   <td>
                     <p>
-                      Mit einer überzeugenden Website stärken Sie das Image
+                      Mit einer überzeugenden Website st&auml;rken Sie das Image
                       Ihrer Kanzlei.
                     </p>
                     <p>
