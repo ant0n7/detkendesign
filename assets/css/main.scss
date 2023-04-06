@@ -13,6 +13,12 @@ main {
   p {
     font-size: 22px;
     text-align: justify;
+
+    // Text align left on mobile
+    @media screen and (max-width: 761px) {
+      font-size: 18px;
+      hyphens: auto;
+    }
   }
 }
 
@@ -49,6 +55,11 @@ body {
 
 #welcome-text {
   font-size: 1.9em;
+
+  @media screen and (max-width: 761px) {
+    font-size: 1.5em;
+  }
+
   span {
     font-style: italic;
   }
