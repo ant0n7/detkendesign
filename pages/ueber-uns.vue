@@ -10,7 +10,7 @@
             setzen wir durchdachte Techniken ein, die potenzielle Kunden und
             Mitarbeiter überzeugen. Dadurch verhindern wir unter anderem, dass
             potenzielle Mandanten und Mitarbeiter zum Konkurrenten abspringen
-            und helfen beim Vertrauensaufbau von Interessenten
+            und helfen beim Vertrauensaufbau von Interessenten.
           </p>
         </TextWrapper>
         <div class="team">
