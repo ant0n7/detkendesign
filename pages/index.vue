@@ -35,7 +35,7 @@
             den Besuchern Ihrer Internetseite direkt Vertrauenswürdigkeit und
             Professionalität vermitteln.
           </p>
-          <h2 class="h3">Stellen Sie sich bitte einmal folgendes vor…</h2>
+          <h2 class="h3 mt-5">Stellen Sie sich bitte einmal folgendes vor…</h2>
           <p>
             Sie sind ein Mandant, der eine Kanzlei sucht, um eine rechtliche
             Angelegenheit zu klären. Sie finden durch eine Online-Recherche
@@ -52,7 +52,7 @@
             darum, wie es aussieht und sich anfühlt. Design bestimmt wie es
             funktioniert”
           </p> -->
-          <h2 class="h3">Was ist Design?</h2>
+          <h2 class="h3 mt-5">Was ist Design?</h2>
           <Testimonial
             class="my-3"
             author="Steve Jobs"
@@ -77,83 +77,14 @@
             auf Sie aufmerksam werden.
           </p>
 
+          <h2 class="h3 mt-5">Ihre Kanzlei und Detken Design</h2>
+
           <p>
             Wir von Detken Design setzen unsere Expertise auf das Gestalten und
             Erstellen von Internetseiten für Anwaltskanzleien. Leichte
             Navigierbarkeit und eine psychologisch ansprechende Gestaltung sagen
             für uns hierbei mehr als 1000 Worte.
           </p>
-          <p>
-            Detken Design hat sich auf das Erstellen von Internetseiten von
-            Anwaltskanzleien spezialisiert.
-          </p>
-          <!--
-              |-----------------------------------|
-              |                                   |
-              |                                   |
-              |-----------|------------|----------|
-              |           |            |          |
-              |-----------|------------|----------|
-              |           |            |          |
-              |           |            |          |
-              |-----------|------------|----------|
-              |                                   |
-              |-----------------------------------|
-              Following table should have the same format as above -->
-          <div class="table-responsive">
-            <table class="table">
-              <thead>
-                <tr>
-                  <th scope="row" colspan="3">
-                    <h3 class="text-center">
-                      Unsere Designsprache steigert Ihren Erfolg
-                    </h3>
-                    <p class="opacity-50 text-center h4">
-                      Einige Vorteile unserer Arbeit für Sie sind ...
-                    </p>
-                  </th>
-                </tr>
-                <tr>
-                  <th scope="row"><h4>Ihre Zeit</h4></th>
-                  <th scope="row"><h4>&Auml;ssere Wahrnehmung</h4></th>
-                  <th scope="row"><h4>Vorsprung</h4></th>
-                </tr>
-                <tr>
-                  <td>
-                    <p>
-                      Wir erstellen Ihre Internetseite so, dass Sie sich auf Ihr
-                      Kerngeschäft konzentrieren können.
-                    </p>
-                  </td>
-                  <td>
-                    <p>
-                      Mit einer überzeugenden Website stärken Sie das Image
-                      Ihrer Kanzlei.
-                    </p>
-                    <p>
-                      Potenzielle Mandanten und Arbeitnehmer nehmen Sie so in
-                      einem noch besseren Licht wahr.
-                    </p>
-                  </td>
-                  <td>
-                    <p>Erhöhen Sie Ihre Verfügbarkeit ohne mehr Anwesenheit.</p>
-                    <p>
-                      Gewinnen Sie Kunden und Arbeitnehmer durch Ihre
-                      leistungsstarke Webseite rund um die Uhr.
-                    </p>
-                  </td>
-                </tr>
-                <tr>
-                  <td scope="col" colspan="3">
-                    <p>
-                      Kombiniert führen diese und weitere Vorteile zu einem
-                      nachhaltig größeren Erfolg Ihrer Kanzlei!
-                    </p>
-                  </td>
-                </tr>
-              </thead>
-            </table>
-          </div>
 
           <p>Profitieren Sie jetzt von unserer Erfahrung.</p>
           <p>
