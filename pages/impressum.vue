@@ -11,8 +11,8 @@
             <p>Detken Design</p>
             <p>Anton Detken</p>
             <p>anton@detkendesign.com</p>
-            <p>Bergheimstrasse 7</p>
-            <p>8032 Zurich</p>
+            <p>Forchstrasse 366</p>
+            <p>8008 Zurich</p>
             <p>Switzerland</p>
             <p>All rights reserved</p>
           </div>
